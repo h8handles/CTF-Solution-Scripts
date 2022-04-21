@@ -19,6 +19,7 @@ Use different languages for the same solutions
 Rooms/Challenges:
 
 - Ignition (pass brute force)
+- md5forlife
 - Paper(wont be easy)
 - PicoCTF 2022
 
