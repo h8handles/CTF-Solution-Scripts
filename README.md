@@ -17,11 +17,17 @@ Use different languages for the same solutions
 
 ## To-Do
 Rooms/Challenges:
+
 - Ignition (pass brute force)
 - Paper(wont be easy)
 - PicoCTF 2022
+
+
 Organize:
+
 - Make folders
 - requirements.txt
+
 Code:
+
 - add Cmd function to appointment to specify username and url/host
