@@ -1,6 +1,7 @@
 import requests
 from pwn import *
-from cmd import Cmd
+#from cmd import Cmd
+#^^working on that
 from bs4 import BeautifulSoup
 
 
